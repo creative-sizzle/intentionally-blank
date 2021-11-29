@@ -21,7 +21,10 @@
         "wptrt/wpthemereview": "^0.2.1"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+		"platform": {
+			"php": "7.2"
+		}
     },
     "scripts": {
         "lint:php": "@php ./vendor/bin/parallel-lint --exclude .git --exclude vendor .",
