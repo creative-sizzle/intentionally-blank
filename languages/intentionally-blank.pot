@@ -1,0 +1,52 @@
+# Copyright (C) 2021 Nilo Velez
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Intentionally Blank 3.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/intentionally-blank\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-11-29T10:04:25-06:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: intentionally-blank\n"
+
+#. Theme Name of the theme
+msgid "Intentionally Blank"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://www.nilovelez.com/blank/"
+msgstr ""
+
+#. Description of the theme
+msgid "This theme was intentionally left blank. There are times when all you need is the WordPress dashboard and an blank frontend. You might be using the WordPress REST API as a backend for a mobile App or you might be a minimalism obsessed hipster. This is your theme."
+msgstr ""
+
+#. Author of the theme
+msgid "Nilo Velez"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.nilovelez.com/"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer"
+msgstr ""
+
+#: functions.php:66
+#: index.php:38
+msgid "Intentionally Blank - Proudly powered by WordPress"
+msgstr ""
+
+#: functions.php:92
+msgid "Copyright Text"
+msgstr ""
+
+#: functions.php:102
+msgid "Show Copyright Text"
+msgstr ""
